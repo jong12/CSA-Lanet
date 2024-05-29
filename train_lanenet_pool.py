@@ -10,7 +10,7 @@ Created on Mon Mar 16 14:06:02 2020
 """
 import sys
 
-sys.path.append('/home/mediacore/lane_detection')
+sys.path.append('')
 
 import argparse
 import math
