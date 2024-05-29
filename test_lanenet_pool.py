@@ -12,7 +12,7 @@ from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
 import sys
-#sys.path.append('/home/mediacore/lane_detection')
+#sys.path.append('')
 import os
 import os.path as ops
 import argparse
