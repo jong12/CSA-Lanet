@@ -1,5 +1,5 @@
 # CSA-Lanenet from NCKU MediaCore
-This is a refernce code in “_____”. Our code is based on Lanenet.
+This is a refernce code in “CSA-Lanenet: A Contiguous Spatial Attention Lane Detection Network with Vision Transformer Modules”. Our code is based on Lanenet.
 # Environment
 Python 3.7.15
 CUDA 10.0.130
